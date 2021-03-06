@@ -23,10 +23,6 @@ import { SeriesService } from './services/serieService/serieservice.service';
 import { ActorCardComponent } from './components/actor-card/actor-card.component';
 import { SeasonCardComponent } from './components/season-card/season-card.component';
 import { ActorsComponent } from './pages/actors/actors.component';
-//import { SignInComponent } from './components/user/sign-in/sign-in.component';
-//import { SignUpComponent } from './components/user/sign-up/sign-up.component';
-//import { UserFormComponent } from './components/user/user-form/user-form.component';
-//import {IgxTabsModule} from 'igniteui-angular';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
